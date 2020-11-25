@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 la branche ed et 2
 je suis le king
+=======
+texte r3r3
+>>>>>>> nouvVeer3
